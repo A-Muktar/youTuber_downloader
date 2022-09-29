@@ -7,4 +7,14 @@
 - And after download has completed, the video can be found in the location of the file in the local machine.
 
     How to Use the file.
+- Click on the code, there will be a popup.
+- In the popup, you will see a line with <em>https</em> copy the link.
+- See illustration below
+
+![image](https://user-images.githubusercontent.com/94757579/192912395-2c760af8-5f5b-4e92-9063-6460c929bdb9.png)
+
+- And go to your terminal and run the command below.
+    
+    <code> git clone "paste the link" </code>
+
 
